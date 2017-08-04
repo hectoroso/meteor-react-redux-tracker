@@ -1,0 +1,1 @@
+export const TestDataCollection = new Meteor.Collection('testdata');
